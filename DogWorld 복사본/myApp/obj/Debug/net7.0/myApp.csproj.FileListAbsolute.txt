@@ -1,0 +1,15 @@
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/bin/Debug/net7.0/myApp
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/bin/Debug/net7.0/myApp.deps.json
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/bin/Debug/net7.0/myApp.runtimeconfig.json
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/bin/Debug/net7.0/myApp.dll
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/bin/Debug/net7.0/myApp.pdb
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.csproj.AssemblyReference.cache
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.AssemblyInfoInputs.cache
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.AssemblyInfo.cs
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.csproj.CoreCompileInputs.cache
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.dll
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/refint/myApp.dll
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.pdb
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/myApp.genruntimeconfig.cache
+/Users/jeamincheoi/Documents/UnityFile/DogWorld/myApp/obj/Debug/net7.0/ref/myApp.dll
